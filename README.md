@@ -1,14 +1,14 @@
 # JOIN-Software-v1
 
-Image processing tool designed specifically for working with microscopy images, especially those captured using 3D digital microscopes. This tool provides four essential functions designed for microscopy data:
+Image processing program optimized for microscopy images, especially those from 3D digital microscopes. This tool provides four essential functions:
 
-Stitch: Combine multiple microscopy images to create panoramic or high-resolution images, ideal for 3D digital microscopy data to capture a broader field of view or more detailed information.
+**Stitch**: Combine multiple microscopy images to create panoramic or high-resolution images, ideal for 3D digital microscopy data to capture a broader field of view or more detailed information.
 
-Resize: Adjust the size of your microscopy images by specifying scaling factors for width and height, ensuring they are perfectly suited for your analysis.
+**Resize**: Adjust the size of your microscopy images by specifying scaling factors for width and height, ensuring they are perfectly suited for your analysis.
 
-Remove Background: Eliminate background noise and distractions from your microscopy images, enhancing the clarity of your sample. Perfect for publication figures.
+**Remove Background**: Eliminate background noise and distractions from your microscopy images, enhancing the clarity of your sample. Perfect for publication figures.
 
-Sharpen: Enhance the intricate details and structures within your 3D microscopy images, allowing for more precise analysis.
+**Sharpen**: Enhance the intricate details and structures within your 3D microscopy images, allowing for more precise analysis.
 
 ## Usage Instructions 🚀
 #### Stitching
@@ -30,13 +30,10 @@ The sharpened images will be saved in the same folder with filenames like name_s
 
 
 
+## Requirements 🛠️
+Python 3 (https://www.python.org/downloads/)
 
-
-
-
-## Comenzando 🚀
-
-
+### Installation 🔧
 
 
 ### Notes 📋
@@ -45,7 +42,7 @@ If the tool appears unresponsive, please be patient, as it may still be in the p
 
 
 
-### Instalación 🔧
+
 
 
 
@@ -73,20 +70,17 @@ Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](ht
 ## Versionado 📌
 
 
-## Autores ✒️
+## Author ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
+* **Anna Francès-Abellán** - [Annafrances8](https://github.com/AnnaFrances8)
 
-* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
-* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
+ 
 
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
-
-## Licencia 📄
+## License 📄
 
 Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
-## Expresiones de Gratitud 🎁
+## Thank you 🎁
 
 
 
