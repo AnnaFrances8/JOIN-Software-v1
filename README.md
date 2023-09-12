@@ -57,15 +57,16 @@ If you need directly the .exe I can send you the .zip file by email (annafrances
 Keep an eye on the Console window for progress updates during image processing.
 If the tool appears unresponsive, please be patient, as it may still be in the processing stage.
 
-More information available in: 
+More information available in: publication in progress.
 
 ## Interface ⚙️
-![image](https://github.com/AnnaFrances8/JOIN-Software-v1/assets/141737377/b84fabb7-1442-41ae-9246-27a5d5daae5e)
+![image](https://github.com/AnnaFrances8/JOIN-Software-v1/assets/141737377/21634cbb-60c3-488a-b221-02a3e321a3b2)
 
 ![image](https://github.com/AnnaFrances8/JOIN-Software-v1/assets/141737377/ed271c87-f330-4aca-91f7-39148913a14b)
 
 ![image](https://github.com/AnnaFrances8/JOIN-Software-v1/assets/141737377/79b9e63b-c023-428f-9fcd-de94663d2073)
 
+![image](https://github.com/AnnaFrances8/JOIN-Software-v1/assets/141737377/89a96c3e-81fc-4902-98e1-054eee67b945)
 
 
 ## Author ✒️
@@ -80,6 +81,8 @@ Permits almost any use subject to **providing credit** and license notice
 
 ## Aknowledgements 🎁
 
-
+Institut Català de Paleoecologia Humana i Evolució Social (IPHES).
+program INVESTIGO 2022 
+![image](https://github.com/AnnaFrances8/JOIN-Software-v1/assets/141737377/4f71f0ea-8360-4961-bb48-e8a1b55d3b2b)
 
 
