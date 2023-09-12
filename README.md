@@ -48,53 +48,35 @@ pip install numpy  # for NumPy
 pip install rembg  # for rembg
 ```
 
-
 ## Installation 🔧
+Github(https://github.com/AnnaFrances8/JOIN-Software-v1) > Create > Download zip > extract files > open JOIN.py
 
+If you need directly the .exe I can send you the .zip file by email (annafrances8@gmail.com).
 
 ## Notes 📋
 Keep an eye on the Console window for progress updates during image processing.
 If the tool appears unresponsive, please be patient, as it may still be in the processing stage.
 
+More information available in: 
 
+## Interface ⚙️
+![image](https://github.com/AnnaFrances8/JOIN-Software-v1/assets/141737377/b84fabb7-1442-41ae-9246-27a5d5daae5e)
 
+![image](https://github.com/AnnaFrances8/JOIN-Software-v1/assets/141737377/ed271c87-f330-4aca-91f7-39148913a14b)
 
+![image](https://github.com/AnnaFrances8/JOIN-Software-v1/assets/141737377/79b9e63b-c023-428f-9fcd-de94663d2073)
 
-
-
-
-## Ejecutando las pruebas ⚙️
-
-
-
-
-## Despliegue 📦
-
-
-
-## Construido con 🛠️
-
-
-## Contribuyendo 🖇️
-
-
-
-## Wiki 📖
-
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
-
-## Versionado 📌
 
 
 ## Author ✒️
 
-* **Anna Francès-Abellán** - [Annafrances8](https://github.com/AnnaFrances8)
+**Anna Francès-Abellán** - [Annafrances8](https://github.com/AnnaFrances8)
 
- 
 
 ## License 📄
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+This project is under the License Creative Commons Attribution 4.0 International - see the file LICENSE for details.
+Permits almost any use subject to **providing credit** and license notice
 
 ## Aknowledgements 🎁
 
