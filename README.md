@@ -34,8 +34,20 @@ Python 3 (https://www.python.org/downloads/)
 
 ``` python
 pip install opencv-python
-npm install npm@latest -g
 ```
+``` python
+pip install pillow  # for the PIL (Pillow) library
+```
+``` python
+pip install opencv-python  # for OpenCV
+```
+``` python
+pip install numpy  # for NumPy
+```
+``` python
+pip install rembg  # for rembg
+```
+
 
 ## Installation 🔧
 
@@ -84,7 +96,7 @@ Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](ht
 
 Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
-## Thank you 🎁
+## Aknowledgements 🎁
 
 
 
