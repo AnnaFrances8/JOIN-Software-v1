@@ -33,9 +33,6 @@ The sharpened images will be saved in the same folder with filenames like **name
 Python 3 (https://www.python.org/downloads/)
 
 ``` python
-pip install opencv-python
-```
-``` python
 pip install pillow  # for the PIL (Pillow) library
 ```
 ``` python
@@ -49,7 +46,7 @@ pip install rembg  # for rembg
 ```
 
 ## Installation 🔧
-Github(https://github.com/AnnaFrances8/JOIN-Software-v1) > Create > Download zip > extract files > open JOIN.py
+Github (https://github.com/AnnaFrances8/JOIN-Software-v1) > Create > Download zip > extract files > open JOIN.py
 
 If you need directly the .exe I can send you the .zip file by email (annafrances8@gmail.com).
 
