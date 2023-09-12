@@ -1,4 +1,4 @@
-# JOIN-Software-v1
+# JOIN-Software-v1 🔬
 
 Image processing program optimized for microscopy images, especially those from 3D digital microscopes. This tool provides four essential functions:
 
@@ -14,29 +14,30 @@ Image processing program optimized for microscopy images, especially those from 
 #### Stitching
 Select the Stitch option to create panoramic or high-resolution images.
 Choose a folder containing the individual microscopy images you want to combine, particularly useful for 3D digital microscope captures.
-The tool will automatically generate a composite image, which is ideal for a more comprehensive view of your sample.
+The composed image will appear in the same folder at the end of the process as **folder_name**_stitched.tif.
 #### Resizing
 Utilize the Resize option to modify the dimensions of your microscopy images.
-Select a folder containing the images you wish to resize, ensuring they are optimized for your specific analysis needs.
+Select a folder containing the images you wish to resize.
 Specify the desired scaling factors for width and height (within the range of 0 to 1).
 For instance, a width scaling factor of 0.2 will reduce the image width to 20% of the original size.
-The resized images will be saved in the same folder with filenames like name_resized{extension}, ensuring they are tailored to your requirements.
+The resized images will be saved in the same folder with filenames like **name**_resized{extension}, ensuring they are tailored to your requirements.
 #### Background Removal
-Choose the Remove Background option to eliminate background noise from your microscopy images, a critical step for enhancing the clarity of your sample.
-The processed images, now free from background artifacts, will be saved in the same folder with filenames like name_no_background.tif, ensuring they are optimized for further analysis.
+Choose the Remove Background option to eliminate background from your microscopy images.
+The processed images, now free from background, will be saved in the same folder with filenames like **name**_no_background.tif.
 #### Sharpening
 Opt for the Sharpen option to enhance the intricate details and structures in your 3D microscopy images, allowing for more precise analysis.
-The sharpened images will be saved in the same folder with filenames like name_sharpened.tif, ensuring your data is ready for in-depth examination.
-
+The sharpened images will be saved in the same folder with filenames like **name**_sharpened.tif, ensuring your data is ready for in-depth examination.
 
 
 ## Requirements 🛠️
 Python 3 (https://www.python.org/downloads/)
 
-### Installation 🔧
+pip install opencv-python
+
+## Installation 🔧
 
 
-### Notes 📋
+## Notes 📋
 Keep an eye on the Console window for progress updates during image processing.
 If the tool appears unresponsive, please be patient, as it may still be in the processing stage.
 
