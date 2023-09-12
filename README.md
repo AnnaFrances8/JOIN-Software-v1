@@ -32,8 +32,10 @@ The sharpened images will be saved in the same folder with filenames like **name
 ## Requirements 🛠️
 Python 3 (https://www.python.org/downloads/)
 
+``` python
 pip install opencv-python
 npm install npm@latest -g
+```
 
 ## Installation 🔧
 
