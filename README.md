@@ -63,7 +63,7 @@ More information available in: publication in progress.
 
 ![image](https://github.com/AnnaFrances8/JOIN-Software-v1/assets/141737377/79b9e63b-c023-428f-9fcd-de94663d2073)
 
-![image](https://github.com/AnnaFrances8/JOIN-Software-v1/assets/141737377/89a96c3e-81fc-4902-98e1-054eee67b945)
+![image](https://github.com/AnnaFrances8/JOIN-Software-v1/assets/141737377/e2c10904-d302-4ece-81cd-39848998aea3)
 
 
 ## Author ✒️
@@ -79,7 +79,8 @@ Permits almost any use subject to **providing credit** and license notice
 ## Aknowledgements 🎁
 
 Institut Català de Paleoecologia Humana i Evolució Social (IPHES).
-program INVESTIGO 2022 
-![image](https://github.com/AnnaFrances8/JOIN-Software-v1/assets/141737377/4f71f0ea-8360-4961-bb48-e8a1b55d3b2b)
+
+Program INVESTIGO 2022.
+
 
 
