@@ -6,7 +6,7 @@ Image processing program optimized for microscopy images, especially those from 
 
 **Resize**: Adjust the size of your microscopy images by specifying scaling factors for width and height, ensuring they are perfectly suited for your analysis.
 
-**Remove Background**: Eliminate background noise and distractions from your microscopy images, enhancing the clarity of your sample. Perfect for publication figures.
+**Remove Background**: Eliminate background from your microscopy images, enhancing the clarity of your sample. Perfect for publication figures.
 
 **Sharpen**: Enhance the intricate details and structures within your 3D microscopy images, allowing for more precise analysis.
 
@@ -26,7 +26,7 @@ Choose the Remove Background option to eliminate background from your microscopy
 The processed images, now free from background, will be saved in the same folder with filenames like **name**_no_background.tif.
 #### Sharpening
 Opt for the Sharpen option to enhance the intricate details and structures in your 3D microscopy images, allowing for more precise analysis.
-The sharpened images will be saved in the same folder with filenames like **name**_sharpened.tif, ensuring your data is ready for in-depth examination.
+The sharpened images will be saved in the same folder with filenames like **name**_sharpened.tif.
 
 
 ## Requirements 🛠️
