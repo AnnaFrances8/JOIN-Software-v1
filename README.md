@@ -46,7 +46,7 @@ pip install rembg  # for rembg
 ```
 
 ## Installation 🔧
-Github (https://github.com/AnnaFrances8/JOIN-Software-v1) > Create > Download zip > extract files > open JOIN.py
+Github (https://github.com/AnnaFrances8/JOIN-Software-v1) > Create > Download zip > extract files > open JOIN-v1.py
 
 If you need directly the .exe I can send you the .zip file by email (annafrances8@gmail.com).
 
