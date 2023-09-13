@@ -57,15 +57,12 @@ If the tool appears unresponsive, please be patient, as it may still be in the p
 More information available in: publication in progress.
 
 ## Interface ⚙️
-![image](https://github.com/AnnaFrances8/JOIN-Software-v1/assets/141737377/21634cbb-60c3-488a-b221-02a3e321a3b2)
-
-![image](https://github.com/AnnaFrances8/JOIN-Software-v1/assets/141737377/ed271c87-f330-4aca-91f7-39148913a14b)
-
-![image](https://github.com/AnnaFrances8/JOIN-Software-v1/assets/141737377/79b9e63b-c023-428f-9fcd-de94663d2073)
-
-![image](https://github.com/AnnaFrances8/JOIN-Software-v1/assets/141737377/e2c10904-d302-4ece-81cd-39848998aea3)
 
 ![image](https://github.com/AnnaFrances8/JOIN-Software-v1/assets/141737377/8cf5cbaf-c9ab-4798-b22b-8f25c9d934b8)
+
+![image](https://github.com/AnnaFrances8/JOIN-Software-v1/assets/141737377/701c15f2-095a-497c-91f8-bef40c165ac0)
+
+![image](https://github.com/AnnaFrances8/JOIN-Software-v1/assets/141737377/b2cab09e-3833-491a-a49c-2ca1b31c51c2)
 
 
 ## Author ✒️
