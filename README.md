@@ -65,6 +65,8 @@ More information available in: publication in progress.
 
 ![image](https://github.com/AnnaFrances8/JOIN-Software-v1/assets/141737377/e2c10904-d302-4ece-81cd-39848998aea3)
 
+![image](https://github.com/AnnaFrances8/JOIN-Software-v1/assets/141737377/8cf5cbaf-c9ab-4798-b22b-8f25c9d934b8)
+
 
 ## Author ✒️
 
