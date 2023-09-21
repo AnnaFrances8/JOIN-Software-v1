@@ -41,8 +41,11 @@ If you need directly the .exe I can send you the .zip file by email (annafrances
 
 ## Notes 📋
 The current process will be displayed in the Console window, which can be cleaned. 
+
 Accepted extensions: .jpg, .tif
+
 If the program does not respond, please wait, it is still running.
+
 It may be necessary to refresh the folder to see the outputs.
 
 More information available in: publication in progress.
