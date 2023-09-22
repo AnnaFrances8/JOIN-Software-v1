@@ -56,7 +56,7 @@ See Interface screenshots folder.
 ## License 📄
 
 This project is under the License Creative Commons Attribution 4.0 International - see the file LICENSE for details.
-Permits almost any use subject to **providing credit** and license notice
+Permits almost any use subject to **providing credit** and license notice.
 
 ## Aknowledgements 🎁
 
