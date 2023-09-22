@@ -1,3 +1,4 @@
+The releases are available and citable on Zenodo
 [![DOI](https://zenodo.org/badge/690537412.svg)](https://zenodo.org/badge/latestdoi/690537412)
 
 
