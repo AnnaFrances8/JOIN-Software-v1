@@ -24,15 +24,8 @@ Sharpen the details of your image. The sharpened image will appear in the same f
 Python 3 (https://www.python.org/downloads/)
 
 ``` python
-pip install pillow  # for the PIL (Pillow) library
+pip install -r requirements.txt
 ```
-``` python
-pip install opencv-python  # for OpenCV
-```
-``` python
-pip install numpy  # for NumPy
-```
-
 
 ## Installation 🔧
 Github (https://github.com/AnnaFrances8/JOIN-Software-v1) > Code > Download zip > extract files > open JOIN-v1.py
