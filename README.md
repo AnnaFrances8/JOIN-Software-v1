@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/690537412.svg)](https://zenodo.org/badge/latestdoi/690537412)
+
+
 # JOIN-Software-v1 🔬
 
 Image processing program optimized for microscopy images, especially those from 3D digital microscopes. This tool provides three essential functions:
