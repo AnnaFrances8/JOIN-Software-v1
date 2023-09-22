@@ -45,17 +45,7 @@ More information available in: publication in progress.
 
 ## Interface ⚙️
 
-![image](https://github.com/AnnaFrances8/JOIN-Software-v1/assets/141737377/5ae0e138-0be7-4b29-a465-3d49dfbce835)
-
-![image](https://github.com/AnnaFrances8/JOIN-Software-v1/assets/141737377/ebbe743c-1052-4b1b-bd1c-fa4dbf495c65)
-
-![image](https://github.com/AnnaFrances8/JOIN-Software-v1/assets/141737377/a3275102-12a7-4f18-8d73-163c05714779)
-
-![image](https://github.com/AnnaFrances8/JOIN-Software-v1/assets/141737377/d1283134-ceae-4c82-88f8-0d3e664ca2e4)
-
-![image](https://github.com/AnnaFrances8/JOIN-Software-v1/assets/141737377/b00e062f-e088-42ef-8a67-bca024d57e97)
-
-![image](https://github.com/AnnaFrances8/JOIN-Software-v1/assets/141737377/f7d9cfd7-08af-4cef-9229-79bd41eaa5c7)
+See Interface screenshots folder.
 
 
 ## Author ✒️
