@@ -1,3 +1,4 @@
+Anna Frances-Abellan. (2023). AnnaFrances8/JOIN-Software-v1: Microscopy image processing program. (Version v1). Zenodo. https://doi.org/10.5281/zenodo.8370192
 USE INSTRUCTIONS
 
 STITCH OPTION: Combine multiple images to produce a panoramic image or a high-resolution image. Choose your folder containing the single images to stitch. The composed image will appear in the same folder at the end of the process as folder_name_stitched.tif.
@@ -7,9 +8,11 @@ RESIZE OPTION: Change the size of your images choosing a suitable scaling factor
 SHARP OPTION: Sharpen the details of your image. The sharpened image will appear in the same folder at the end of the process as name_sharpened.tif.
 ------------------------
 The current process will be displayed in the Console window, which can be cleaned. 
-Accepted extensions: .jpg, .tif
+Accepted extensions: .jpg, .tif (continued)
 If the program does not respond, please wait, it is still running.
 It may be necessary to refresh the folder to see the outputs.
+
+
 
 
 
